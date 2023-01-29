@@ -22,7 +22,7 @@ Task was to help We Wish This Were a Deterministic World (WWTWDW) with their cap
 - Projects were matched until either the initial costs
 	- Were below $100,000, the capital budget
 	- Were below $110,000 and a loan was required
-	- 
+	
 <p align="center"> <img  alt="Best Results"  src="Assets/2.jpg"  width="30%" /></p>
 
 The matching of 1C+2F+4K yielded the highest NPV of the investment options
